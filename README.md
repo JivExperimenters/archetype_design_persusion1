@@ -11,10 +11,10 @@ Form a group of **four**. Choose a **project lead** and assign one topic to each
 
 | Topic | Required Pages | Owner |
 |---|---:|---|
-| [Brand Archetypes](archetypes/README.md) | 12 archetypes | Brennan |
-| [Principles of Persuasion](persuasion/README.md) | 7 principles | Jivitesh |
-| [Modernist Design](modernism/README.md) | 6 styles | Omari |
-| [Postmodernist Design](postmodernism/README.md) | 6 styles | Minh |
+| [Brand Archetypes](archetypes/README.md) | 12 archetypes | TBD  |
+| [Principles of Persuasion](persuasion/README.md) | 7 principles | TBD  |
+| [Modernist Design](modernism/README.md) | 6 styles | TBD  |
+| [Postmodernist Design](postmodernism/README.md) | 6 styles | TBD  |
 
 **The project lead:**
 - Creates the shared repository, invites teammates as collaborators, and ensures everyone can clone it.
