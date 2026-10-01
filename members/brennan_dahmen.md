@@ -1,5 +1,7 @@
 # Brennan Dahmen — Sage
 
+[Back to the main README](../README.md)
+
 ## Why Sage fits me
 
 In a previous conversation, the AI suggested the **Sage** archetype because I value logical thinking above other considerations. I agreed with that choice. The Sage's focus on knowledge, understanding, and reason fits the way I want to present myself: someone who thinks carefully and can explain the reasoning behind a conclusion.
