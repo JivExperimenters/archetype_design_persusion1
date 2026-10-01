@@ -24,6 +24,8 @@ Persuasion principle and why it fits: Authority. The Sage builds trust through d
 
 ## Issues I completed
 
+- [#2: Create the personal page](https://github.com/JivExperimenters/archetype_design_persusion1/issues/2) — Created my personal page with an introduction, my chosen Sage archetype, and design choices for imagery, color, typography, style, headline, CTA, and persuasion principle.
+
 ## My work and reviews
 
 ## What I have learned so far
