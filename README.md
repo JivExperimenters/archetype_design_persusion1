@@ -1,116 +1,45 @@
-# Brand Archetypes, Design Styles, and Persuasion
-## A Collaborative Survival Guide
+# Brand Archetypes, Design, and Persuasion
 
-Build a practical reference for understanding brand archetypes, applying Robert Cialdini’s principles of persuasion, and recognizing design styles within modernism and postmodernism.
+**Turn research into a clear visual message—and work together in Git before writing code.**
 
-This is also an exercise in **Git collaboration**: organizing work with issues, assigning ownership, working on branches, reviewing changes, and merging without overwriting each other’s work.
+## Start here
 
-## 1. Form Your Team
+**For next class:** each student brings one researched design-style page with **two historical examples**. Form a team of four and choose your six modernist and six postmodernist styles first.
 
-Form a group of **four**. Choose a **project lead** and assign one topic to each member. The lead also owns a topic.
+1. [Read the assignment](assignment.md): roles, checkpoints, and what to submit.
+2. [Research a style](lessons/02-research-and-style.md): turn museum evidence into design choices.
+3. [Use a page template](reference/page-templates.md), then [submit a pull request](reference/git-workflow.md).
 
-| Topic | Required Pages | Owner |
-|---|---:|---|
-| [Brand Archetypes](archetypes/README.md) | 12 archetypes | TBD  |
-| [Principles of Persuasion](persuasion/README.md) | 7 principles | TBD  |
-| [Modernist Design](modernism/README.md) | 6 styles | TBD  |
-| [Postmodernist Design](postmodernism/README.md) | 6 styles | TBD  |
+## Learn as you work
 
-**The project lead:**
-- Creates the shared repository, invites teammates as collaborators, and ensures everyone can clone it.
-- Coordinates issue assignments and file ownership.
-- Maintains this root README, including member links.
-- Ensures pull requests receive review and merges approved work.
+These lessons support the existing deliverables. Their practice activities go into your pages and drafts; they are **not extra submissions**.
 
-The lead coordinates the project; **they do not do everyone’s work**. Each member maintains their topic folder and its `README.md` index.
+| When you need to… | Open… |
+|---|---|
+| Connect audience, archetype, design, and persuasion | [1. Build a hero that has a job](lessons/01-hero-anatomy.md) |
+| Understand modernist and postmodernist choices | [2. Research and apply a visual style](lessons/02-research-and-style.md) |
+| Choose faces, photographs, cartoons, or objects | [3. Direct attention with imagery](lessons/03-faces-and-imagery.md) |
+| Write a headline and a useful CTA | [4. Make persuasion visible](lessons/04-persuasion-and-cta.md) |
+| See the same brief designed four ways | [5. Explore the example gallery](lessons/05-example-gallery.md) |
+| Generate, compare, and improve your work | [6. Build and critique your four heroes](lessons/06-build-and-critique.md) |
 
-## 2. Assignment One: Discover Your Archetype
+**Reference:** [Templates](reference/page-templates.md) · [Git workflow](reference/git-workflow.md) · [Sources and credits](reference/sources-and-credits.md)
 
-Each member creates an issue for their personal page, assigns it to themselves, and completes the work on a branch.
+## Your team's guide
 
-Ask an AI assistant to help identify your brand archetype. Ask follow-up questions rather than accepting its first answer.
+The lead replaces placeholders with links to completed student work. Assign each topic once; separate topic indexes are unnecessary.
 
-Create `members/first_last.md` containing:
-- Your name and chosen archetype.
-- Why the AI suggested it and whether you agree.
-- Suggested imagery, colors, fonts, and sample phrasing.
-- Examples of applying Cialdini’s persuasion principles to your personal brand, with explanations.
+Each student's [personal page](reference/page-templates.md#personal-page) will become their About page in the project. It must include their full name, a brief introduction to who they are and their interests or goals, links to the GitHub issues they completed with a brief contribution note for each, and a short reflection on what they have learned so far while doing this project. Keep it updated as work progresses.
 
-The project lead adds each member’s name, archetype, and page link below.
+| Student / personal page | 3 archetypes | 3 design styles | 1–2 persuasion principles |
+|---|---|---|---|
+| Student 1 | | | |
+| Student 2 | | | |
+| Student 3 | | | |
+| Student 4 | | | |
 
-### Team Members
+## Where this leads
 
-<!-- Example: - [Keith Williams](members/keith_williams.md) — Explorer -->
+Next: brand a **plain white T-shirt** in class using a separate assignment repository. After the test: build the brand's website with **your own Express server and templates written by hand**. By course end: present your work in a **professional GitHub portfolio and personal website for self-promotion and networking**.
 
-## 3. Assignment Two: Create a Sample Page
-
-Each member creates **one complete sample page** for their assigned topic—for example, Explorer, Unity, or a selected design style.
-
-Have it ready for the next class. Review the samples together and agree on a reusable format **before producing the remaining pages**.
-
-Every topic page should include:
-- **What it is:** A clear definition and essential characteristics.
-- **When to use it:** The audience, purpose, and situations it suits.
-- **How to apply it:** Practical guidance for imagery, color, typography, layout, or wording, as relevant.
-- **Examples:** Relevant images and real-world examples with explanations.
-- **Sources:** Links to primary sources and image credits.
-- **Navigation:** A link back to the topic index.
-
-Design-style pages should also explain historical context and how the style supports, develops, or challenges modernist ideas.
-
-## 4. Assignment Three: Complete the Guide
-
-Use the approved format to finish the required pages in the topic table. Agree on the six styles in each design category before writing.
-
-Each member creates issues for their remaining pages and updates their topic index with links.
-
-**AI is a collaborator, not a source of truth.** Verify claims, check sources, and edit the output into a useful guide you understand.
-
-## 5. Collaboration Workflow: Issue → Branch → Pull Request
-
-### Plan the work
-
-Create an issue **before editing**. Include:
-- A specific title, such as `Add Explorer archetype guide`.
-- One assigned owner.
-- The exact files being created or changed.
-- A checklist defining when the task is complete.
-
-The project lead checks for overlapping assignments. Discuss ownership in the issue before starting.
-
-### Create a branch
-
-Start from an updated `main`. Replace the example issue number and branch name with your own.
-
-```bash
-git switch main
-git pull --ff-only
-git switch -c issue-12-explorer
-```
-
-### Commit and push
-
-Stage only the files belonging to your issue. Reference the issue number in your commit message.
-
-```bash
-git status
-git add archetypes/explorer.md
-git commit -m "Add Explorer archetype guide #12"
-git push -u origin issue-12-explorer
-```
-
-### Request review
-
-Open a pull request into `main`. Explain what changed and include `Closes #12` in its description.
-
-Another teammate reviews the content, sources, formatting, and links. Address feedback on the same branch. The project lead merges approved work.
-
-## 6. Don’t Step on Each Other’s Toes
-
-- **Never push directly to `main`.** Use your own branch and a pull request.
-- **Respect file ownership.** Only the lead edits the root README; topic owners edit their assigned folders.
-- **Coordinate shared changes in an issue.** Do not edit someone else’s files without agreement.
-- **Avoid overlapping work.** Merge an existing task before starting another that changes the same files.
-- **Do not force-push or overwrite a teammate’s work to fix a conflict.** Resolve it together.
-
-**Done means:** the page meets its checklist, its sources and links work, another teammate has reviewed it, and the pull request has been merged.
+You are practicing research and attribution, design history, branding, persuasive writing, AI revision, Markdown, asset management, Git collaboration, critique, and documentation. Later units add HTML/CSS, Express, templating, and portfolio presentation.
