@@ -352,7 +352,7 @@ footer {
 }
 .slide {
   position: relative;
-  padding-block: clamp(5.5rem, 10vw, 10rem);
+  padding-block: clamp(3rem, 5vw, 5rem);
 }
 .section-head {
   position: relative;
