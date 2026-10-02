@@ -2,7 +2,7 @@
 
 ## Core Idea
 
-Jivitesh turns original ideas into useful, playful experiences. He explores games, apps, UI/UX, stories, business, technology, content, and marketing by making things, learning from experiments, and sharing what works.
+I turn original ideas into useful, playful experiences. I like to explore games, apps, UI/UX, stories, business, technology, content, and marketing by making things, learning from experiments, and sharing what works.
 
 **In one line:** Imagine it. Make it real. Make it your own.
 
