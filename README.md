@@ -34,7 +34,7 @@ Each student's [personal page](reference/page-templates.md#personal-page) will b
 | Student / personal page | 3 archetypes | 3 design styles | 1–2 persuasion principles |
 |---|---|---|---|
 | [Brennan Dahmen](members/Brennan_Dahmen.md) | Completed: [Sage](lessons/sage.md); Planned: Creator, Magician | Completed: [Constructivism](lessons/constructivism.md), [Psychedelic Poster Design](lessons/psychedelic-poster-design.md), [New Wave Typography](lessons/new-wave-typography.md) | Planned: Reciprocity and Authority |
-| Student 2 | | | |
+| Jivitesh Duddu(jivitesh_about.md)|Completed: Caregiver, Ruler Planned:Creator | |Reciprocity and Social Proof |
 | Student 3 | | | |
 | Student 4 | | | |
 
