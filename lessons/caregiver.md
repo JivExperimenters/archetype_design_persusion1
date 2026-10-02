@@ -1,6 +1,5 @@
 # The Caregiver
 
-[Home](../README.md) · [Brand archetypes](README.md)
 
 ## What it is
 
