@@ -57,7 +57,10 @@ Close with a direct invitation to share an idea, explore a collaboration, or vie
 - **Reciprocity:** Offer useful resources, design notes, experiments, and lessons learned so visitors receive something practical before being asked to collaborate.
 - **Social proof:** Include genuine feedback, reviews, or project outcomes only when they can be verified. Attribute feedback and date metrics; omit evidence that is not available rather than implying traction.
 
-## Issue Links
+## Issue I completed so far
 
-The issue URLs were not included in the brief. Add the actual GitHub issue links here when available; no issue numbers or destinations have been assumed.
+https://github.com/JivExperimenters/archetype_design_persusion1/issues/10
 
+## My work and reviews
+
+## What I have learned so far
