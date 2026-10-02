@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Geometric fruit-bowl design study</title>
+  <desc id="desc">An original, stylized schematic of a faceted bowl with colorful triangular panels, not a reproduction of George Sowden's Penrose Fruit Bowl.</desc>
+  <rect width="720" height="440" rx="28" fill="#fff8e9"/>
+  <text x="42" y="58" fill="#315a3b" font-family="Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="2">FORM + COLOUR STUDY</text>
+  <ellipse cx="360" cy="328" rx="218" ry="34" fill="#e7ddc7"/>
+  <path d="M178 187 267 138 359 159 454 133 543 186 515 285 453 327 266 327 204 285Z" fill="#f6c84b" stroke="#315a3b" stroke-width="7" stroke-linejoin="round"/>
+  <path d="m178 187 91-49 12 94-77 53Z" fill="#ef765d" stroke="#315a3b" stroke-width="5" stroke-linejoin="round"/>
+  <path d="m269 138 90 21-78 73Z" fill="#f8e8bc" stroke="#315a3b" stroke-width="5" stroke-linejoin="round"/>
+  <path d="m359 159 95-26-17 99-156 0Z" fill="#86b98a" stroke="#315a3b" stroke-width="5" stroke-linejoin="round"/>
+  <path d="m454 133 89 53-72 46-34-1Z" fill="#78a9c7" stroke="#315a3b" stroke-width="5" stroke-linejoin="round"/>
+  <path d="m204 285 77-59 156 0 78 59-62 42H266Z" fill="#df775e" stroke="#315a3b" stroke-width="5" stroke-linejoin="round"/>
+  <path d="m281 226 78-67 78 67-78 21Z" fill="#f8e8bc" stroke="#315a3b" stroke-width="5" stroke-linejoin="round"/>
+  <path d="m281 226 78 21-93 80-62-42Z" fill="#e8ae3c" stroke="#315a3b" stroke-width="5" stroke-linejoin="round"/>
+  <path d="m359 247 78-21 78 59-62 42Z" fill="#8dbb8a" stroke="#315a3b" stroke-width="5" stroke-linejoin="round"/>
+  <text x="360" y="393" text-anchor="middle" fill="#315a3b" font-family="Arial, sans-serif" font-size="16">ORIGINAL SCHEMATIC — NOT THE HISTORICAL OBJECT</text>
+</svg>
