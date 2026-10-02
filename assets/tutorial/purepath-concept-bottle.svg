@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 320" role="img" aria-labelledby="title desc">
+  <title id="title">PurePath fictional bottle concept</title>
+  <desc id="desc">A simple illustrated bottle silhouette marked concept, not a real product photograph.</desc>
+  <rect width="240" height="320" rx="24" fill="#f3f0e8"/>
+  <circle cx="190" cy="62" r="28" fill="#f2bd45"/>
+  <path d="M50 228 86 192l28 20 37-48 43 64" fill="none" stroke="#d34e3b" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M96 46h48v28c0 12 8 23 17 32 10 11 16 25 16 42v116c0 14-11 25-25 25H88c-14 0-25-11-25-25V148c0-17 6-31 16-42 9-9 17-20 17-32z" fill="#fffdf8" stroke="#243f38" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M100 46h40v29h-40z" fill="#243f38"/>
+  <path d="M100 34h40v15h-40z" rx="4" fill="#243f38"/>
+  <rect x="73" y="127" width="94" height="93" rx="8" fill="#e8f1ed" stroke="#243f38" stroke-width="3"/>
+  <text x="120" y="158" text-anchor="middle" fill="#243f38" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1">PUREPATH</text>
+  <path d="M120 168c-10 13-14 19-14 27a14 14 0 0 0 28 0c0-8-4-14-14-27z" fill="#f2bd45" stroke="#243f38" stroke-width="2"/>
+  <text x="120" y="212" text-anchor="middle" fill="#243f38" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2">CONCEPT</text>
+</svg>
