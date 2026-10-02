@@ -30,6 +30,8 @@ Persuasion principle and why it fits: Authority. The Sage builds trust through d
 - [#14: Psychedelic Poster Design research page](https://github.com/JivExperimenters/archetype_design_persusion1/issues/14) — Completed the [Psychedelic Poster Design page](../lessons/psychedelic-poster-design.md), explaining its historical context, relationship to modernism, and three visual features. Added two historical posters with locally stored images, source links, image credits, observations, and possible hero adaptations.
 - [#16: New Wave Typography research page](https://github.com/JivExperimenters/archetype_design_persusion1/issues/16) — Completed the [New Wave Typography page](../lessons/new-wave-typography.md), explaining its origins, relationship to modernism and postmodern design, and three visual features. Added two Wolfgang Weingart posters with locally stored images, source links, image credits, observations, and possible hero adaptations.
 
+- [#18: Sage archetype research page](https://github.com/JivExperimenters/archetype_design_persusion1/issues/18) — Completed the [Sage archetype page](../lessons/sage.md), explaining its audience motivations, visual and verbal cues, and appropriate uses. Analyzed TED and Grammarly Business with locally stored reference images and source links, and proposed a headline, supporting copy, and CTA for applying Sage to the project.
+
 ## My work and reviews
 
 ## What I have learned so far
