@@ -25,6 +25,7 @@ Persuasion principle and why it fits: Authority. The Sage builds trust through d
 ## Issues I completed
 
 - [#2: Create the personal page](https://github.com/JivExperimenters/archetype_design_persusion1/issues/2) — Created my personal page with an introduction, my chosen Sage archetype, and design choices for imagery, color, typography, style, headline, CTA, and persuasion principle.
+- [#12: Constructivism research page](https://github.com/JivExperimenters/archetype_design_persusion1/issues/12) — Completed the [Constructivism design-style page](../lessons/constructivism.md), explaining its historical context, relationship to modernism, and three visual features. Added two historical examples with locally stored images, source links, credits, reuse information, and explanations of how their features could be adapted into a hero.
 
 ## My work and reviews
 
