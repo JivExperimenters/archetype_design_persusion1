@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 250" role="img" aria-labelledby="title desc">
+  <title id="title">Authority evidence chain</title>
+  <desc id="desc">A diagram showing relevant expertise, verifiable credentials, supporting evidence, and a proportionate claim connected in sequence so a reader can assess credibility.</desc>
+  <rect width="960" height="250" rx="18" fill="#f1f4f7"/>
+  <text x="34" y="39" fill="#172b45" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="2">THE CREDIBILITY PATH</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="34" y="70" width="190" height="112" rx="10" fill="#172b45"/>
+    <text x="129" y="111" text-anchor="middle" fill="#e8ca83" font-size="14" font-weight="700">01 / SOURCE</text>
+    <text x="129" y="143" text-anchor="middle" fill="#fff" font-size="19" font-weight="700">Relevant expert</text>
+    <rect x="270" y="70" width="190" height="112" rx="10" fill="#315b83"/>
+    <text x="365" y="111" text-anchor="middle" fill="#dce8f2" font-size="14" font-weight="700">02 / BASIS</text>
+    <text x="365" y="136" text-anchor="middle" fill="#fff" font-size="17" font-weight="700">Checkable</text>
+    <text x="365" y="158" text-anchor="middle" fill="#fff" font-size="17" font-weight="700">credentials</text>
+    <rect x="506" y="70" width="190" height="112" rx="10" fill="#28665d"/>
+    <text x="601" y="111" text-anchor="middle" fill="#d7eee6" font-size="14" font-weight="700">03 / SUPPORT</text>
+    <text x="601" y="143" text-anchor="middle" fill="#fff" font-size="19" font-weight="700">Evidence + context</text>
+    <rect x="742" y="70" width="184" height="112" rx="10" fill="#9b7432"/>
+    <text x="834" y="111" text-anchor="middle" fill="#fff0ce" font-size="14" font-weight="700">04 / MESSAGE</text>
+    <text x="834" y="143" text-anchor="middle" fill="#fff" font-size="19" font-weight="700">Proportionate claim</text>
+    <g fill="none" stroke="#9b7432" stroke-width="4">
+      <path d="M228 126h32"/><path d="M464 126h32"/><path d="M700 126h32"/>
+    </g>
+    <g fill="#9b7432">
+      <path d="m260 119 12 7-12 7z"/><path d="m496 119 12 7-12 7z"/><path d="m732 119 12 7-12 7z"/>
+    </g>
+    <text x="480" y="218" text-anchor="middle" fill="#425568" font-size="15">If a link is missing, disclose the limit instead of decorating around it.</text>
+  </g>
+</svg>

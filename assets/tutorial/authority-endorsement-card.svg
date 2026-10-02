@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 350" role="img" aria-labelledby="title desc">
+  <title id="title">Sample expert endorsement card wireframe</title>
+  <desc id="desc">A fictional, clearly marked layout wireframe with placeholders for expert name, relevant credentials, a verified quotation, supporting evidence, and sponsorship disclosure.</desc>
+  <rect width="780" height="350" rx="18" fill="#f1f4f7"/>
+  <rect x="18" y="18" width="744" height="314" rx="12" fill="#fff" stroke="#c5d0dc" stroke-width="2"/>
+  <path d="M30 18h720a12 12 0 0 1 12 12v39H18V30a12 12 0 0 1 12-12Z" fill="#172b45"/>
+  <text x="42" y="49" fill="#e8ca83" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2">SAMPLE LAYOUT / NOT A REAL ENDORSEMENT</text>
+  <circle cx="111" cy="143" r="42" fill="#d9e3ec" stroke="#315b83" stroke-width="3"/>
+  <text x="111" y="148" text-anchor="middle" fill="#315b83" font-family="Arial, sans-serif" font-size="13" font-weight="700">PHOTO</text>
+  <g font-family="Arial, sans-serif">
+    <text x="178" y="112" fill="#172b45" font-size="23" font-weight="700">[Expert name]</text>
+    <text x="178" y="139" fill="#315b83" font-size="16" font-weight="700">[Relevant, verified qualification]</text>
+    <text x="178" y="162" fill="#425568" font-size="14">[Institution or experience related to this topic]</text>
+    <rect x="42" y="198" width="696" height="76" rx="8" fill="#edf4f1"/>
+    <text x="62" y="228" fill="#28665d" font-size="14" font-weight="700">VERIFIED QUOTE + CONTEXT</text>
+    <text x="62" y="252" fill="#263640" font-size="15">“[Use the person's actual words and explain what they reviewed.]”</text>
+    <text x="44" y="304" fill="#315b83" font-size="14" font-weight="700">[Read supporting evidence]</text>
+    <rect x="473" y="285" width="265" height="28" rx="4" fill="#f7f3e9"/>
+    <text x="605" y="304" text-anchor="middle" fill="#705522" font-size="12" font-weight="700">[Disclose payment / relationship if applicable]</text>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 430" role="img" aria-labelledby="title desc">
+  <title id="title">Deconstruction-inspired authority layout</title>
+  <desc id="desc">An original editorial wireframe with layered question fragments around an intact expert attribution and source panel, demonstrating experimentation without obscuring evidence.</desc>
+  <rect width="850" height="430" rx="16" fill="#f7f3e9"/>
+  <rect x="24" y="24" width="802" height="382" fill="#fff" stroke="#d8cbb1" stroke-width="2"/>
+  <rect x="48" y="48" width="754" height="54" fill="#172b45"/>
+  <text x="68" y="82" fill="#fff" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2">WHO SAYS SO — AND ON WHAT BASIS?</text>
+  <g font-family="Arial, sans-serif">
+    <path d="M42 130h340v18H42z" fill="#c59a48" opacity=".85"/>
+    <text x="54" y="164" fill="#172b45" font-size="29" font-weight="700">A claim is a starting point,</text>
+    <rect x="444" y="129" width="356" height="72" fill="#e7edf3" transform="rotate(-2 444 129)"/>
+    <text x="466" y="160" fill="#315b83" font-size="17" font-weight="700">not proof by itself.</text>
+    <text x="466" y="184" fill="#425568" font-size="12">DESIGN STUDY / ORIGINAL COPY</text>
+    <rect x="80" y="212" width="690" height="132" rx="8" fill="#edf4f1" stroke="#28665d" stroke-width="2"/>
+    <text x="104" y="242" fill="#28665d" font-size="13" font-weight="700" letter-spacing="1.5">KEEP THIS EVIDENCE PANEL FIXED AND READABLE</text>
+    <text x="104" y="276" fill="#172b45" font-size="20" font-weight="700">[Expert] · [relevant credential]</text>
+    <text x="104" y="302" fill="#263640" font-size="15">[What was reviewed? What does the source actually support?]</text>
+    <text x="104" y="328" fill="#315b83" font-size="14" font-weight="700">[Original source] · [disclosure if applicable]</text>
+    <path d="M55 370h228" stroke="#315b83" stroke-width="3"/>
+    <text x="55" y="392" fill="#425568" font-size="12">LAYER THE QUESTION. DO NOT LAYER OVER ATTRIBUTION.</text>
+    <circle cx="758" cy="370" r="19" fill="#c59a48"/>
+    <text x="758" y="375" text-anchor="middle" fill="#172b45" font-size="13" font-weight="700">?</text>
+  </g>
+</svg>
